@@ -34,6 +34,27 @@ const questions = [
         name: 'Features',
         message: "list your project features.",
     },
+
+    {
+      type: 'input',
+      name: 'Licences',
+      message: "what licens will you use for your project?.",
+    },
+
+    {
+      type: 'input',
+      name: 'Github',
+      message: "whats your github?.",
+    },
+
+    {
+      type: 'input',
+      name: 'Email',
+      message: "whats your email address?.",
+    },
+ 
+ 
+ 
    
   ];
 
@@ -56,7 +77,11 @@ function init() {
         text += ""+ answers.Usage+ '\n\n';
         text += "##Credits \n\n"; 
         text += ""+ answers.Credits+ '\n\n';
-        text += "##Features \n\n"; 
+        text += "##Licences \n\n"; 
+        text += ""+ answers.Features;
+        text += "##Github \n\n"; 
+        text += ""+ answers.Features;
+        text += "##Email \n\n"; 
         text += ""+ answers.Features;
           fs.writeFile('README.md', text, err => {
             if (err) {

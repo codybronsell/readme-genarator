@@ -1,23 +1,27 @@
 #Title 
 
-dhediedij
+fan project
 
 ##Description 
 
-dddced
+to help support my fans
 
 ##Installation 
 
-wdfwefwdascs
+just download it threw read me file.
 
 ##Usage 
 
-wswe3scsdc
+help fans reach me and one another.
 
 ##Credits 
 
-sdcsdverfwdsc
+myself
 
-##Features 
+##Licences 
 
-dwedscascwdwe
+talking to one another.##Github 
+
+talking to one another.##Email 
+
+talking to one another.
