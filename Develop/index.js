@@ -78,11 +78,11 @@ function init() {
         text += "##Credits \n\n"; 
         text += ""+ answers.Credits+ '\n\n';
         text += "##Licences \n\n"; 
-        text += ""+ answers.Licences;
+        text += ""+ answers.Licences+ '\n\n';
         text += "##Github \n\n"; 
-        text += ""+ answers.Githiub;
+        text += ""+ answers.Githiub+ '\n\n';
         text += "##Email \n\n"; 
-        text += ""+ answers.Email;
+        text += ""+ answers.Email+ '\n\n';
           fs.writeFile('README.md', text, err => {
             if (err) {
               console.error(err);

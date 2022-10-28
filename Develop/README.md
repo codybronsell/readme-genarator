@@ -1,18 +1,18 @@
 #Title 
 
-fan project
+fun project
 
 ##Description 
 
-a project to help fans interact
+to makeing have fun easy
 
 ##Installation 
 
-use link in read me to download 
+just go to link in read me file
 
 ##Usage 
 
-use to contact each other.
+use to interact with others
 
 ##Credits 
 
@@ -20,8 +20,13 @@ myself
 
 ##Licences 
 
-MIT##Github 
+MIT
 
-undefined##Email 
+##Github 
+
+undefined
+
+##Email 
 
 codybronsell@yahoo.com
+
