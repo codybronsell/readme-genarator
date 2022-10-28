@@ -4,15 +4,15 @@ fan project
 
 ##Description 
 
-to help support my fans
+a project to help fans interact
 
 ##Installation 
 
-just download it threw read me file.
+use link in read me to download 
 
 ##Usage 
 
-help fans reach me and one another.
+use to contact each other.
 
 ##Credits 
 
@@ -20,8 +20,8 @@ myself
 
 ##Licences 
 
-talking to one another.##Github 
+MIT##Github 
 
-talking to one another.##Email 
+undefined##Email 
 
-talking to one another.
+codybronsell@yahoo.com
